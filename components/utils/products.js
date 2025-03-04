@@ -1,0 +1,92 @@
+export const productos = [
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Arroz',
+      descripcion: 'Arroz blanco de grano largo, ideal para acompañar tus comidas.',
+      precio: 1.5,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Frijoles Negros',
+      descripcion: 'Frijoles negros secos, perfectos para preparar platillos tradicionales.',
+      precio: 2.0,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Aceite de Cocina',
+      descripcion: 'Aceite vegetal para cocinar, ideal para freír y sazonar.',
+      precio: 3.5,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Harina de Maíz',
+      descripcion: 'Harina de maíz para preparar tortillas y otros platillos mexicanos.',
+      precio: 1.8,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Azúcar',
+      descripcion: 'Azúcar blanca refinada, perfecta para endulzar tus bebidas y postres.',
+      precio: 1.2,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Sal de Mesa',
+      descripcion: 'Sal de mesa yodada, esencial para sazonar tus comidas.',
+      precio: 0.5,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Café Molido',
+      descripcion: 'Café molido de alta calidad, ideal para preparar una taza de café aromático.',
+      precio: 4.0,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Leche en Polvo',
+      descripcion: 'Leche en polvo entera, perfecta para preparar bebidas y postres.',
+      precio: 3.0,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Atún en Lata',
+      descripcion: 'Atún en lata en agua, ideal para ensaladas y sándwiches.',
+      precio: 2.5,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Sopa Instantánea',
+      descripcion: 'Sopa instantánea de pollo, fácil y rápida de preparar.',
+      precio: 0.8,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Galletas de Chocolate',
+      descripcion: 'Galletas de chocolate crujientes, perfectas para un snack.',
+      precio: 1.5,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Jugo de Naranja',
+      descripcion: 'Jugo de naranja natural, ideal para un desayuno saludable.',
+      precio: 2.0,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Cereal de Maíz',
+      descripcion: 'Cereal de maíz crujiente, perfecto para el desayuno.',
+      precio: 2.5,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Papel Higiénico',
+      descripcion: 'Papel higiénico suave y resistente, esencial para el hogar.',
+      precio: 4.5,
+  },
+  {
+      foto: 'https://via.placeholder.com/150',
+      nombre: 'Detergente en Polvo',
+      descripcion: 'Detergente en polvo para ropa, eficaz en la eliminación de manchas.',
+      precio: 3.5,
+  },
+];
